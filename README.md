@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/Lobzen/my-ctest/badge.svg?branch=main)](https://coveralls.io/github/Lobzen/my-ctest?branch=main)
 # План тестирования:
 
 # Аттестационное тестирование
